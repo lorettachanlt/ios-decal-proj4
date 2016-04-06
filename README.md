@@ -21,10 +21,21 @@ wines with the dinner or food that you are currently enjoying.
 
 ## Implementation
 ### Model
-* Files in our model
+* Wine.Swift
+* Button.Swift
 
 ### View
-* Files in our view
+* HomeScreenView
+* SettingsView
+* MealTypeView
+* DishTypeView
+* SauceTypeView
+* RecommendedWineView
 
 ### Controller
-* Files in our controller
+* HomeScreenViewController
+* SettingsViewController
+* MealTypeViewController
+* DishTypeViewController
+* SauceTypeViewController
+* RecommendedWineViewController
